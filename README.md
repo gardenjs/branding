@@ -34,4 +34,10 @@ These guidelines are subject to change at any time. It is your responsibility to
 | White | ![Inverse](./icon/icon_gardenjs_white.svg) |
 | Black | ![Inverse](./icon/icon_gardenjs_black.svg) |
 
+## Badge
+
+<a href="https://github.com/gardenjs/gardenjs" target="_blank"><img src="https://raw.githubusercontent.com/gardenjs/branding/main/badge/badge_gardenjs.svg"></a>
+
+<br><br>
+
 Many thanks to <a href="https://www.susyschafheutle.de/" target="_blank">Susy Schafheutle</a> for the great logo.
